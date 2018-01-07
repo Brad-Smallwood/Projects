@@ -1,2 +1,2 @@
-# Case-Study-3
-Github for Case Study 3.
+# Projects
+Github for various projects I've done personally or have worked on with a team.
